@@ -4,12 +4,19 @@ layout: base
 
 {% include header.html type="page" %}
 
-<div class="container" role="main">
+<div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
+      {% if page.github %}
+        {% include github-repo.html repo=page.github %}
+      {% endif %}
+      <hr>
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+      
+      <hr>
       {% if page.share-buttons and site.share-buttons-below %}
-        <hr>
         {% include share-buttons.html %}
       {% endif %}
 	    {% if page.comments %}
