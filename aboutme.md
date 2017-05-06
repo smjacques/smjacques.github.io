@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Sobre
 
-What else do you need?
+Sou biólogo, realizei meus estudos de mestrado e doutorado com estudos experimentais e observacionais testando a influência das alterações climáticas sobre a dinâmica de comunidades, os processos ecossistêmicos e a integridade de ambientes aquáticos e terrestres associados. Em estudos observacionais e monitoramentos meu foco é a avaliação da ciclagem de nutrientes pela comunidade microbiana e da variação da emissão de gases de efeito estufa, tendo participado de projetos em reservatórios hidrelétricos brasileiros, lagoas costeiras do Norte-Fluminense, bem como em rios da bacia amazônica.
 
-### my history
+Atualmente desenvolvo jogos colaborativos voltados para a sensibilização socioambiental na sociedade, e utilizo técnicas e conceitos ecológicos integrados a tecnologias livres (softwares e hardwares) para desenvolvimentos de sensores de monitoramento ambiental e sistemas de automação em projetos sustentáveis. Minhas atividades estão voltadas para a promoção de maior acesso a tecnologias de baixo custo e da popularização da ciência, a disseminação da informação, e a geração e publicação livre e aberta de dados ambientais.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Também tenho interesse em pesquisa reproduzível usando a linguagem R, produção colaborativa entre pares (P2P), economias alternativas, produção local, e serviços ambientais.
