@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+ruby '2.3.1'
 
-gem 'github-pages', '106'
-gem 'jekyll-paginate'
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+
+gem 'github-pages', versions['github-pages']
