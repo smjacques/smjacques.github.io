@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Global sea ice time series visualization sandbox with R, ggplot, and plotly"
+title: "Introdução à Econofísica Ecológica Para o Decrescimento"
 date: 2017-10-05 15:41
 comments: true
 ---
