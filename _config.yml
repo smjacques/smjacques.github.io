@@ -1,12 +1,11 @@
 # Site settings
-title: Maxwell B. Joseph
-email: maxwell.b.joseph@colorado.edu
-description: ""
+title: Saulo Jacques
+email: saulojacques@protonmail.com
+description: "Ecologia | Tecnologias Livres | Ciência Cidadã"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mbjoseph.github.io" # the base hostname & protocol for your site
-twitter_username: mxwlj
-github_username:  mbjoseph
+url: "http://smjacques.github.io" # the base hostname & protocol for your site
+github_username:  smjacques
 
 # Build settings
 markdown: kramdown
@@ -14,4 +13,3 @@ highlighter: rouge
 
 gems:
   - jemoji
-
