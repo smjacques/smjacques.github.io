@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Materiais de Cursos e Workshops
+title: Cursos e Workshops
 weight: 2
 ---
 

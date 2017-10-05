@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misc
+title: Blog
 weight: 4
 ---
 
