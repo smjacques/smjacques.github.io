@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Projetos
-weight: 2
+layout:
+title: 
+weight:
 ---
 
 ## [smapr](https://github.com/earthlab/smapr) :droplet:
