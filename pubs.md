@@ -17,7 +17,7 @@ weight: 3
 
 <strong>2013</strong> – <a href="https://www.researchgate.net/publication/260772667_Origin_concentration_availability_and_fate_of_dissolved_organic_carbon_in_coastal_lagoons_of_the_Rio_de_Janeiro_State">Origin, concentration, availability and fate of dissolved organic carbon in coastal lagoons of the Rio de Janeiro State</a>, Suhett, Albert Luiz, Amado, André Megali, Meirelles-Pereira, Frederico, Scofield, Vinicius, Jacques, Saulo Machado De Souza, Laque, Thaís, Farjalla, Vinicius F. Acta Limnologica Brasiliensia, v.25, p.326 – 340.
 
-###Blogs, Sites e Revistas de Divulgação Científica
+### Blogs, Sites e Revistas de Divulgação Científica
 <strong>2017</strong> - As Pesquisas Sem Relevância e o Interesse Público. Biobox Magazine (aprovado para publicação).
 
 <strong>2014</strong> - Sobre Chuva, Seca e Bactérias. <a href="https://limnonews.wordpress.com/2014/07/24/sobre-chuva-seca-e-bacterias/">Blog LimnoNews</a>, 24 de julho de 2014.
