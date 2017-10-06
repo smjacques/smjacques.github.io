@@ -4,23 +4,17 @@ title: Cursos e Workshops
 weight: 2
 ---
 
-## [smapr](https://github.com/earthlab/smapr) :droplet:
+## Usando R Para Dados Reproduzíveis:
 
-[![Build Status](https://travis-ci.org/earthlab/smapr.svg?branch=master)](https://travis-ci.org/earthlab/smapr) [![codecov](https://codecov.io/gh/earthlab/smapr/branch/master/graph/badge.svg)](https://codecov.io/gh/earthlab/smapr) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/smapr)](https://cran.r-project.org/package=smapr) [![Licence](https://img.shields.io/badge/licence-GPL--2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) [![Last-changedate](https://img.shields.io/badge/last%20change-2016--12--09-brightgreen.svg)](/commits/master)
 
-An R package for acquisition and processing of NASA SMAP soil moisture data
+Curso criado com o objetivo de ampliar o acesso de pessoas que queiram utilizar a linguagem R em análises de dados, criação de gráficos e documentos dinâmicos focando no seu potencial para estudos colaborativos e reprodutibilidade utilizando a integração com o sistema de controle de versão git.
 
-This package came about after some colleagues and I used some of NASA's soil moisture active-passive data, and realized that our workflow could be conveniently wrapped up into a package.
-With smapr, you can programmatically search, download, and process soil moisture data without having to interface directly with the HDF5 storage format or somewhat rare projections involved in manual processing.
+[https://github.com/smjacques/R-colaborativo](https://github.com/smjacques/R-colaborativo)
 
-[https://github.com/earthlab/smapr](https://github.com/earthlab/smapr)
+## Usando Arduino Para Irrigação Automatizada de Baixo Custo:
 
-## [bbr](https://github.com/mbjoseph/bbr) :basketball:
+Curso apresentando os princípios básicos de programação com Arduino e sua aplicação em projetos de automação de irrigação de hortas e iniciativas de agricultura urbana de médio porte.
 
-[![Travis-CI Build Status](https://travis-ci.org/mbjoseph/bbr.svg?branch=master)](https://travis-ci.org/mbjoseph/bbr) [![Coverage Status](https://img.shields.io/codecov/c/github/mbjoseph/bbr/master.svg)](https://codecov.io/github/mbjoseph/bbr?branch=master) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/bbr)](https://cran.r-project.org/package=bbr) [![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-3.0.html) [![Last-changedate](https://img.shields.io/badge/last%20change-2016--12--08-brightgreen.svg)](/commits/master)
+O caráter acessível e adaptável da plataforma Arduino permite que o sistema possa atender às necessidades específicas, se integrado também a outras técnicas, como a captação da água de chuva e o monitoramento climático local.
 
-An R package for data acquisition from basketball-reference.com
-
-This package is currently in development, but the idea is to make it easy to snag historical NBA data from basketball-reference.com.
-
-[https://github.com/mbjoseph/bbr](https://github.com/mbjoseph/bbr)
+[https://github.com/smjacques/Horta-Automatizada-ESDI](https://github.com/smjacques/Horta-Automatizada-ESDI)
