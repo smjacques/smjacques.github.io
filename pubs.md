@@ -4,10 +4,10 @@ title: Publicações
 weight: 2
 ---
 
-### Capítulo de Livro
+## Capítulo de Livro
 <p align="left"><strong>2017</strong> – Potential changes in bacterial metabolism associated with increased water temperature and nutrient inputs in tropical humic lagoons, Scofield, Vinicius, Jacques, Saulo M. S., Guimarães, Jean R. D., Farjalla, Vinicius F. in <a href="http://journal.frontiersin.org/researchtopic/735/microbial-role-in-the-carbon-cycle-in-tropical-inland-aquatic-ecosystems">Microbial Role in the Carbon Cycle in Tropical Inland Aquatic Ecosystems</a>. <span id="ctl00_ctl00_MainContentPlaceHolder_ContentAreaMainContent_ucBookDetail_lblProductDesc">Frontiers Research Topic Ebook, p. 28-37.</span></p>
 
-### Artigos em Revistas Científicas
+## Artigos em Revistas Científicas
 <strong>2017 </strong>– <a href="https://link.springer.com/article/10.1007/s00248-017-1038-3" target="_blank" rel="noopener">Salinity Drives the Virioplankton Abundance but not Production in Tropical Coastal Lagoons</a>. Junger, P. C., Amado A. M., Paranhos R. , Cabral, A. S., Jacques S. M. S, Farjalla V. F. Microbial Ecology.
 
 <strong>2017</strong> – <a href="https://www.ncbi.nlm.nih.gov/pubmed/28488752">Functional structure of the bromeliad tank microbiome is strongly shaped by local geochemical conditions</a>, Louca, S., Jacques, S. M. S., Pires, A. P. F., Leal, J. S., González, A. L., Doebeli, M., Farjalla, V. F. Environmental Microbiology and Environmental Microbiology Reports.
