@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Publicações
-permalink: /pubs/
 weight: 2
 ---
 
