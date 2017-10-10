@@ -64,7 +64,8 @@ Um estudo teórico e empírico mais aprofundado na linha da econofísica ecológ
 A mensagem deste artigo não é, de forma alguma, de que as políticas alternativas devam se basear principalmente na ciência dura (N.T. ciências exatas e biológicas, do inglês “hard science”). No entanto, a ciência dura tem um papel a desempenhar. Esperemos que ela não seja mais deixada de lado.
 <br>
 ---
-<strong># Salvador Pueyo</strong> <em>é pesquisador transdisciplinar do Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals da Universitat de Barcelona.
+<br>
+<strong>Salvador Pueyo</strong> <em>é pesquisador transdisciplinar do Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals da Universitat de Barcelona.
 </em>
 
 *<span id="result_box" class="" lang="pt"><span class="">Um sistema multifractal é uma generalização de um sistema fractal em que um único expoente (a dimensão fractal) não é suficiente para descrever sua dinâmica; Em vez disso, é necessário um espectro contínuo de expoentes (o chamado espectro de singularidade).
