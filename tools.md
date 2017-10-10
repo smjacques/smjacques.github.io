@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Cursos e Workshops
-weight: 2
+weight: 3
 ---
 ### Usando R Para Dados Reproduzíveis:
 
