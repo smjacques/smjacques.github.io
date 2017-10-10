@@ -11,7 +11,7 @@ weight: 5
 <a href="http://lattes.cnpq.br/5417781782669845">
     <img border="0" align="right" alt="Lattes" src="https://i.imgur.com/2iVxee6.png" width="50" height="51">
     <br>
-    <hr>
+
 <br>
 <p>Biólogo que usa gnu/linux e doutor em ecologia e evolução pela UERJ com estudos avaliando os impactos das mudanças climáticas sobre ambientes naturais. Desde 2008 participo de pesquisas com ecossistemas costeiros e continentais, estudos experimentais utilizando microcosmos naturais e dinâmica da comunidade microbiana.</p>
 
