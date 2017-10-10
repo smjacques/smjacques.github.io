@@ -12,10 +12,11 @@ Esse é o primeiro post do blog e aqui reproduzo o texto do pesquisador Salvador
 </em></strong></blockquote>
 <blockquote><a href="http://www.esee2015.org/wp-content/uploads/2015/10/0657.pdf" target="_blank">Texto</a> publicado no 11<sup>o</sup> Congresso Internacional da <a href="http://www.euroecolecon.org/" target="_blank">ESEE</a>.</blockquote>
 <!--more-->
-<h2>1. Introdução</h2>
+<h3>1. Introdução</h3>
 O presente trabalho sintetiza e atualiza as ideias apresentadas em detalhes no artigo "Ecological Econophysics for Degrowth"<sup>[1]</sup>. À medida que os limites ambientais globais se tornam evidentes, há um crescente interesse em transformações radicais para passar de uma economia dependente do crescimento para uma forma de decrescimento que proporcione o bem-estar.
 
 No entanto, tais transformações encontrarão grandes dificuldades, incluindo interesses já constituídos, barreiras culturais e dificuldades técnicas. O artigo pretende contribuir para uma nova teoria macroeconômica que possa abordar os problemas técnicos decorrentes do decrescimento. Argumento que, além das ideias da economia ecológica, esta teoria precisará de <em>insights</em> de estudos de sistemas complexos, especialmente da disciplina recentemente desenvolvida conhecida como Econofísica <sup>[3, 4]</sup>. Portanto, ela pode ser rotulada como Econofísica Ecológica.
+<br>
 <h2>2. Por que Econofísica?</h2>
 As alternativas radicais frequentemente enfatizam que as regras de interação entre agentes econômicos são justas em si, mas não há garantia de que deem resultados desejáveis quando aplicadas simultaneamente por um número muito grande de agentes. Os sistemas complexos apresentam frequentemente propriedades emergentes <sup>[5]</sup>, isto é, características macroscópicas que não podem ser deduzidas trivialmente a partir da dinâmica microscópica.
 
@@ -34,6 +35,7 @@ Obviamente, precisamos de métodos adequados para evitar estes três obstáculos
 Algumas das razões pelas quais os modelos de crescimento convencional não nos ajudarão são: (1) por serem modelos de equilíbrio, eles excluem fenômenos de não equilíbrio como as recessões endógenas, e (2) focando em um agente representativo, eles não são capazes de tratar de questões distributivas e excluir propriedades emergentes.
 
 Sendo baseada na física estatística, uma abordagem econofísica é ideal para nossos objetivos, porque as flutuações econômicas e a distribuição de recursos entre os agentes são melhor descritas por distribuições estatísticas, e o trabalho da física estatística é vincular as distribuições estatísticas aos seus mecanismos subjacentes. De forma menos evidente, ela também pode contribuir muito para o problema de resiliência.
+<br>
 <h2>3. Enfrentando os três obstáculos</h2>
 <h3>3.1 Decrescimento sem grandes recessões</h3>
 As economias poderiam responder à escassez de recursos, às pressões ambientais e às políticas de austeridade de diferentes maneiras. Tanto os modelos de equilíbrio, prevendo respostas suaves, quanto os modelos tipo Meadows, prevendo o colapso, ignoram a granularidade e a modularidade da economia, o que significa que ela pode se esfacelar pouco a pouco <sup>[1]</sup>. As economias regularmente perdem fragmentos, sob a forma de recessões. Os tamanhos das recessões apresentam uma distribuição estatística conhecida como lei de potência <sup>[6]</sup>, de forma semelhante a eventos catastróficos em muitos outros sistemas complexos, como por exemplo, incêndios florestais <sup>[7]</sup>. As florestas respondem ao estresse ambiental com alteração nos parâmetros da distribuição da lei de potência do tamanho do fogo <sup>[7]</sup>, e esta seria a resposta mais parcimoniosa também nas economias. Porém, o colapso total é também concebível como resultado de certas políticas <sup>[1]</sup>.
@@ -51,6 +53,7 @@ As seções 3.1 e 3.2 mencionam leis de potência e outros padrões que não var
 Esse fato é crucial para as transformações que estamos antevendo, que buscam alterar, justamente, as distribuições (de recessões, de renda) cuja forma atual é indicativa de BOC. Se isso for feito ingenuamente, corremos o risco de construir um sistema que, por causa de sua estrutura, é condenado ao colapso ou a degenerar. Por exemplo, é tentador pensar que o sistema soviético possuísse um problema sistêmico de excesso de ordem. Felizmente, pode ser possível passar de um sistema econômico BOC para um sistema que seja completamente diferente, mas também seja viável e também um BOC, com alguns sintomas anteriores de BOC desaparecendo enquanto surgem outros mais benignos <sup>[1]</sup>.
 
 Há razões para pensar que a democracia é, por si, um mecanismo BOC, o que aumenta a esperança de que podemos passar dos governos controlados pelo mercado da era da globalização para uma economia controlada democraticamente buscando a sustentabilidade global <sup>[1]</sup>.
+<br>
 <h2>Estratégia de Pesquisa</h2>
 Aplicar a ciência da complexidade a economias não implica que tenhamos que confiar em modelos muito complexos. Precisamos aplicar modelos complexos baseados em agentes** para simular economias decrescentes alternativas, mas isso não podem constituir nossa estratégia central.
 
@@ -59,15 +62,17 @@ A física estatística também possui outras ferramentas. Na maioria das vezes a
 Um estudo teórico e empírico mais aprofundado na linha da econofísica ecológica é essencial para desenvolver alternativas sólidas para uma sociedade sustentável, igualitária, democrática e agradável, e por isso convido outros cientistas a aderirem a esta linha de pesquisa.
 
 A mensagem deste artigo não é, de forma alguma, de que as políticas alternativas devam se basear principalmente na ciência dura (N.T. ciências exatas e biológicas, do inglês “hard science”). No entanto, a ciência dura tem um papel a desempenhar. Esperemos que ela não seja mais deixada de lado.
-
+<br>
+---
 <strong># Salvador Pueyo</strong> <em>é pesquisador transdisciplinar do Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals da Universitat de Barcelona.
 </em>
 
-*<em>Um sistema multifractal é uma generalização de um sistema fractal em que um único expoente (a dimensão fractal) não é suficiente para descrever sua dinâmica; Em vez disso, é necessário um espectro contínuo de expoentes (o chamado espectro de singularidade).</em>
-<em> Sistemas Multifractal são comuns na natureza e incluem o comprimento das linhas costeiras, as séries temporais do mercado de ações, as séries temporais do campo magnético do Sol, a dinâmica dos batimentos cardíacos, a marcha humana e as séries temporais de luminosidade natural.</em>
+*<span id="result_box" class="" lang="pt"><span class="">Um sistema multifractal é uma generalização de um sistema fractal em que um único expoente (a dimensão fractal) não é suficiente para descrever sua dinâmica; Em vez disso, é necessário um espectro contínuo de expoentes (o chamado espectro de singularidade).
+Sistemas Multifractal são comuns na natureza e incluem o comprimento das linhas costeiras, as séries temporais do mercado de ações, as séries temporais do campo magnético do Sol, a dinâmica dos batimentos cardíacos, a marcha humana e as séries temporais de luminosidade natural.</span>
 
 **<span id="result_box" class="" lang="pt"><span class="">O modelo baseado em agentes (MBA) é uma das classes de modelos computacionais que simula as ações e interações de agentes autônomos (entidades individuais ou coletivas, organizações ou grupos), em um dado contexto, com objetivo de avaliar seus efeitos no sistema como um todo.
 </span></span>
+<br>
 <h3><strong>Referências</strong></h3>
 [1] Pueyo, S. Ecological econophysics for degrowth. Sustainability 6, 3431–3483 (2014).
 
