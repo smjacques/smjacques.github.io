@@ -14,7 +14,7 @@ weight: 4
 
 <h3>Usando Arduino Para Irrigação Automatizada de Baixo Custo</h3>
 
-<p style="color:#616161;">"Curso apresentando os princípios básicos de programação com Arduino e sua aplicação em projetos de automação de irrigação de hortas e iniciativas de agricultura urbana de médio porte.</p>
+<p style="color:#616161;">Curso apresentando os princípios básicos de programação com Arduino e sua aplicação em projetos de automação de irrigação de hortas e iniciativas de agricultura urbana de médio porte.</p>
 
 <p style="color:#616161;">O caráter acessível e adaptável da plataforma Arduino permite que o sistema possa atender às necessidades específicas, se integrado também a outras técnicas, como a captação da água de chuva e o monitoramento climático local.</p>
 

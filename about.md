@@ -19,11 +19,11 @@ Atualmente minhas atividades se voltam para as seguintes áreas:
 
  <ul style="list-style-type:circle">
   <li>Ecologia Aplicada</li>
-  <li>tecnologias livres e abertas para geração de dados ambientais</li>
+  <li>Tecnologias livres e abertas para geração de dados ambientais</li>
   <li>Ciência Cidadã e Emancipação Tecnológica</li>
   <li>Análise de dados utilizando R e Python</li>
   <li>Estudos ambientais colaborativos usando integração entre linguagem R e Git</li>
-</ul> 
+</ul>
 
 
 
