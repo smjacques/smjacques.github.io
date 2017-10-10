@@ -9,6 +9,10 @@ Curso criado com o objetivo de ampliar o acesso de pessoas que queiram utilizar 
 
 [https://github.com/smjacques/R-colaborativo](https://github.com/smjacques/R-colaborativo)
 
+[Versão GitBook](https://www.gitbook.com/book/smjacques/r-para-analises-cientificas-reproduziveis/details)  
+
+---
+
 ### Usando Arduino Para Irrigação Automatizada de Baixo Custo:
 
 Curso apresentando os princípios básicos de programação com Arduino e sua aplicação em projetos de automação de irrigação de hortas e iniciativas de agricultura urbana de médio porte.
