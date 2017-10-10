@@ -62,8 +62,7 @@ A física estatística também possui outras ferramentas. Na maioria das vezes a
 Um estudo teórico e empírico mais aprofundado na linha da econofísica ecológica é essencial para desenvolver alternativas sólidas para uma sociedade sustentável, igualitária, democrática e agradável, e por isso convido outros cientistas a aderirem a esta linha de pesquisa.
 
 A mensagem deste artigo não é, de forma alguma, de que as políticas alternativas devam se basear principalmente na ciência dura (N.T. ciências exatas e biológicas, do inglês “hard science”). No entanto, a ciência dura tem um papel a desempenhar. Esperemos que ela não seja mais deixada de lado.
-<br>
----
+<hr>
 <br>
 <strong>Salvador Pueyo</strong> <em>é pesquisador transdisciplinar do Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals da Universitat de Barcelona.
 </em>
