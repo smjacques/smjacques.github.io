@@ -5,5 +5,7 @@ weight: 4
 ---
 
 {% for post in site.posts %}
-* {{ post.date | date_to_string }} &raquo;[ {{ post.title }} ]({{ post.url }})
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+
+
