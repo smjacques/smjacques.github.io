@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Projetos
-weight: 2
+weight: 1
 ---
 [atualizando...]

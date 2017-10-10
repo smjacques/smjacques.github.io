@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 permalink: /about/
-weight: 2
+weight: 5
 ---
 
 Biólogo sem medo de linhas de comando e doutor em ecologia e evolução pela UERJ com estudos avaliando os impactos das mudanças climáticas sobre ambientes naturais. Desde 2008 participo de pesquisas com ecossistemas costeiros e continentais, estudos experimentais utilizando microcosmos naturais e dinâmica da comunidade microbiana.

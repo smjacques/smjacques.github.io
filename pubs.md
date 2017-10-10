@@ -2,7 +2,7 @@
 layout: page
 title: Publicações
 permalink: /pubs/
-weight: 3
+weight: 2
 ---
 
 ### Capítulo de Livro
