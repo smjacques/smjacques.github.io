@@ -7,11 +7,11 @@ weight: 1
 <h3> Ecologia | Open Data | Tecnologias livres </h3>
 
 <a href="https://github.com/smjacques">
-    <img border="0" align="right" alt="GitHub" src="https://i.imgur.com/2iVxee6.png" width="50" height="50">
+    <img border="0" align="right" alt="GitHub" src="https://raw.githubusercontent.com/smjacques/smjacques.github.io/master/icons/github.png" width="50" height="50">
 <a href="http://orcid.org/0000-0001-5194-2338">
-    <img border="0" align="right" alt="ORCID" src="https://orcid.org/sites/default/files/images/orcid_128x128.png" width="50" height="50">
+    <img border="0" align="right" alt="ORCID" src="https://raw.githubusercontent.com/smjacques/smjacques.github.io/master/icons/orcid_128x128.png" width="50" height="50">
     <a href="http://lattes.cnpq.br/5417781782669845">
-    <img border="0" align="right" alt="Lattes" src="https://i.imgur.com/2iVxee6.png" width="50" height="50">
+    <img border="0" align="right" alt="Lattes" src="https://raw.githubusercontent.com/smjacques/smjacques.github.io/master/icons/2iVxee6.png" width="50" height="50">
     <br>
 
 <br>
