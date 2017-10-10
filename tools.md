@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cursos e Workshops
-weight: 3
+weight: 4
 ---
 <h3> Usando R Para Dados Reproduzíveis</h3>
 

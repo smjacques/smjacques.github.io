@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projetos
-weight: 1
+weight: 2
 ---
 
 <h3>Climobike</h3>

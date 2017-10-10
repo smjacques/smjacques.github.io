@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publicações
-weight: 2
+weight: 3
 ---
 
 <h3 style="color:blue;">Capítulo de Livro</h3>
