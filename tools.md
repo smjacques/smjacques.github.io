@@ -3,7 +3,7 @@ layout: default
 title: Cursos e Workshops
 weight: 3
 ---
-## Usando R Para Dados Reproduzíveis
+<h2> Usando R Para Dados Reproduzíveis</h2>
 
 Curso criado com o objetivo de ampliar o acesso de pessoas que queiram utilizar a linguagem R em análises de dados, criação de gráficos e documentos dinâmicos focando no seu potencial para estudos colaborativos e reprodutibilidade utilizando a integração com o sistema de controle de versão git.
 
@@ -13,7 +13,7 @@ Curso criado com o objetivo de ampliar o acesso de pessoas que queiram utilizar 
 
 
 
-## Usando Arduino Para Irrigação Automatizada de Baixo Custo
+<h2>Usando Arduino Para Irrigação Automatizada de Baixo Custo</h2>
 
 Curso apresentando os princípios básicos de programação com Arduino e sua aplicação em projetos de automação de irrigação de hortas e iniciativas de agricultura urbana de médio porte.
 

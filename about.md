@@ -17,4 +17,4 @@ weight: 5
 
 <p>Atualmente foco minha atividades em ecologia aplicada, utilizando tecnologias livres e abertas para desenvolver sensores de monitoramento de baixo custo e maior protagonismo cidadão, análise de dados utilizando R e Python, integração R e Git para trabalhos colaborativos e geração de dados abertos.</p>
 
-<p>Todos os materiais dos cursos e workshops que ofereço estão disponíveis na página "cursos e workshops".</p>
+<p>Todos os materiais didáticos produzidos estão disponíveis na página "cursos e workshops".</p>
