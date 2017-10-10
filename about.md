@@ -13,8 +13,8 @@ weight: 5
     <br>
 
 <br>
-<p>Biólogo que usa gnu/linux e doutor em ecologia e evolução pela UERJ com estudos avaliando os impactos das mudanças climáticas sobre ambientes naturais. Desde 2008 participo de pesquisas com ecossistemas costeiros e continentais, estudos experimentais utilizando microcosmos naturais e dinâmica da comunidade microbiana.</p>
+<em>"Biólogo que mexe com eletrônica" e doutor em ecologia e evolução pela UERJ com estudos avaliando os impactos das mudanças climáticas sobre ambientes naturais. Desde 2008 participo de pesquisas com ecossistemas aquáticos, monitoramentos ambientais e estudos experimentais utilizando microcosmos naturais.</em>
 
-<p>Atualmente foco minha atividades em ecologia aplicada, utilizando tecnologias livres e abertas para desenvolver sensores de monitoramento de baixo custo e maior protagonismo cidadão, análise de dados utilizando R e Python, integração R e Git para trabalhos colaborativos e geração de dados abertos.</p>
+<em>Atualmente minhas atividades envolvem ecologia aplicada, utilizando tecnologias livres e abertas para geração de dados ambientais e maior protagonismo cidadão, análise de dados utilizando R e Python  trabalhos colaborativos usando integração entre linguagem R e Git.</em>
 
-<p>Todos os materiais didáticos produzidos estão disponíveis na página "cursos e workshops".</p>
+<em>A atuação no ensino envolvem cursos e workshops de análises de dados ambientais, introdução à linguagens R e Python e aplicação de tecnologias livres e abertas para automação e monitoramento ambiental. Todos os materiais produzidos estão disponíveis na página "cursos e workshops".</em>
