@@ -5,7 +5,7 @@ date: 2017-10-05 15:41
 comments: true
 ---
 
-Esse é o primeiro post do blog e aqui reproduzo o texto do pesquisador Salvador Pueyo que havia publicado no site pessoal hospedado em outro endereço no meio de 2017.
+Texto do pesquisador Salvador Pueyo publicado pela primeira vez em português em 2017 acerca de pesquisa que busca identificar sistemas econômicos alternativos que funcionariam entre a ordem e o caos, mas radicalmente diferentes do sistema vigente em relação à sustentabilidade ambiental e a justiça social.
 
 
 <blockquote><strong><em>Salvador Pueyo
