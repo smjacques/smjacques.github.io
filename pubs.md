@@ -19,7 +19,7 @@ weight: 2
 <br>
 
 <h3 style="color:blue;"> Blogs, Sites e Revistas de Divulgação Científica</h3>
-<strong>2017</strong> - As Pesquisas Sem Relevância e o Interesse Público. Biobox Magazine (aprovado para publicação).</p>
-
+<strong>2017</strong> - As Pesquisas Sem Relevância e o Interesse Público. Biobox Magazine (aprovado para publicação).
+<br>
 
 <strong>2014</strong> - Sobre Chuva, Seca e Bactérias. <a href="https://limnonews.wordpress.com/2014/07/24/sobre-chuva-seca-e-bacterias/" style="color:#616161;">Blog LimnoNews</a>, 24 de julho de 2014.
