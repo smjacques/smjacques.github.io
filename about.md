@@ -11,7 +11,9 @@ Atualmente foco minha atividades em ecologia aplicada, utilizando tecnologias li
 
 Tenho particular interesse em ciência cidadã, reprodutibilidade de dados e produção decentralizada na internet.
 
-[![ORCID](https://members.orcid.org/sites/default/files/vector_iD_icon-bw.svg)](http://orcid.org/0000-0001-5194-2338)
+<a href="http://orcid.org/0000-0001-5194-2338">
+<img border="0" alt="ORCID" src="https://members.orcid.org/sites/default/files/vector_iD_icon-bw.svg" width="100" height="100">
+
 [![lattes](https://i.imgur.com/2iVxee6.png)](http://lattes.cnpq.br/5417781782669845)
 
 ---
