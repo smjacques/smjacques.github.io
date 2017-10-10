@@ -17,7 +17,7 @@ O presente trabalho sintetiza e atualiza as ideias apresentadas em detalhes no a
 
 No entanto, tais transformações encontrarão grandes dificuldades, incluindo interesses já constituídos, barreiras culturais e dificuldades técnicas. O artigo pretende contribuir para uma nova teoria macroeconômica que possa abordar os problemas técnicos decorrentes do decrescimento. Argumento que, além das ideias da economia ecológica, esta teoria precisará de <em>insights</em> de estudos de sistemas complexos, especialmente da disciplina recentemente desenvolvida conhecida como Econofísica <sup>[3, 4]</sup>. Portanto, ela pode ser rotulada como Econofísica Ecológica.
 <br>
-<h2>2. Por que Econofísica?</h2>
+<h3>2. Por que Econofísica?</h3>
 As alternativas radicais frequentemente enfatizam que as regras de interação entre agentes econômicos são justas em si, mas não há garantia de que deem resultados desejáveis quando aplicadas simultaneamente por um número muito grande de agentes. Os sistemas complexos apresentam frequentemente propriedades emergentes <sup>[5]</sup>, isto é, características macroscópicas que não podem ser deduzidas trivialmente a partir da dinâmica microscópica.
 
 As propriedades emergentes nem sempre são previsíveis, mas é possível fazer prognósticos parciais com a ajuda da ciência da complexidade. Dessa forma, essa disciplina deve tornar-se uma ferramenta básica para o pensamento utópico pragmático.
@@ -36,12 +36,12 @@ Algumas das razões pelas quais os modelos de crescimento convencional não nos 
 
 Sendo baseada na física estatística, uma abordagem econofísica é ideal para nossos objetivos, porque as flutuações econômicas e a distribuição de recursos entre os agentes são melhor descritas por distribuições estatísticas, e o trabalho da física estatística é vincular as distribuições estatísticas aos seus mecanismos subjacentes. De forma menos evidente, ela também pode contribuir muito para o problema de resiliência.
 <br>
-<h2>3. Enfrentando os três obstáculos</h2>
-<h3>3.1 Decrescimento sem grandes recessões</h3>
+<h3>3. Enfrentando os três obstáculos</h3>
+<h4>3.1 Decrescimento sem grandes recessões</h4>
 As economias poderiam responder à escassez de recursos, às pressões ambientais e às políticas de austeridade de diferentes maneiras. Tanto os modelos de equilíbrio, prevendo respostas suaves, quanto os modelos tipo Meadows, prevendo o colapso, ignoram a granularidade e a modularidade da economia, o que significa que ela pode se esfacelar pouco a pouco <sup>[1]</sup>. As economias regularmente perdem fragmentos, sob a forma de recessões. Os tamanhos das recessões apresentam uma distribuição estatística conhecida como lei de potência <sup>[6]</sup>, de forma semelhante a eventos catastróficos em muitos outros sistemas complexos, como por exemplo, incêndios florestais <sup>[7]</sup>. As florestas respondem ao estresse ambiental com alteração nos parâmetros da distribuição da lei de potência do tamanho do fogo <sup>[7]</sup>, e esta seria a resposta mais parcimoniosa também nas economias. Porém, o colapso total é também concebível como resultado de certas políticas <sup>[1]</sup>.
 
 Embora algumas crises sejam provavelmente inevitáveis, elas poderiam ser contornadas em parte, ao darmos à economia outros mecanismos para se reorganizar em direção a uma configuração e escala que correspondam à nova realidade ambiental (ver algumas medidas políticas experimentais na referência <sup>[1]</sup>).
-<h3>3.2 Decrescimento sem exclusão</h3>
+<h4>3.2 Decrescimento sem exclusão</h4>
 Uma diminuição da disponibilidade de recursos resultará em um impacto mais forte nos estratos de renda mais baixa da sociedade (especialmente sobre as pessoas afetadas também por outras dimensões da desigualdade, como a desigualdade de gênero dentro de casa), podendo representar inclusive a privação do mínimo necessário para a vida. Isso só pode ser evitado se a redução dos recursos vier acompanhada pelo aumento da igualdade <sup>[8]</sup>.
 
 Neste contexto, novamente encontramos uma distribuição de lei de potência: esta função descreve parte da distribuição de renda <sup>[9]</sup>. As leis de potência frequentemente emergem em sistemas complexos, o que não significa que elas devam ser universais e inevitáveis. O estudo "Ecological Econophysics for Degrowth" <sup>[1]</sup> mostra como um modelo econofísico pode ser usado para prever a distribuição de renda resultante de diferentes políticas. Este modelo não é totalmente realista e por isso precisa de mais pesquisas neste sentido. O ideal é que isso possa nos levar a métodos para obter a igualdade como uma propriedade emergente, em vez de forçá-la, controlando cada detalhe de uma economia.
@@ -54,7 +54,7 @@ Esse fato é crucial para as transformações que estamos antevendo, que buscam 
 
 Há razões para pensar que a democracia é, por si, um mecanismo BOC, o que aumenta a esperança de que podemos passar dos governos controlados pelo mercado da era da globalização para uma economia controlada democraticamente buscando a sustentabilidade global <sup>[1]</sup>.
 <br>
-<h2>Estratégia de Pesquisa</h2>
+<h3>Estratégia de Pesquisa</h3>
 Aplicar a ciência da complexidade a economias não implica que tenhamos que confiar em modelos muito complexos. Precisamos aplicar modelos complexos baseados em agentes** para simular economias decrescentes alternativas, mas isso não podem constituir nossa estratégia central.
 
 A física estatística também possui outras ferramentas. Na maioria das vezes apenas uma pequena fração da informação microscópica é relevante nas escalas macroscópicas (esta é a base do conceito bem estabelecido de classes de universalidade <sup>[12]</sup> e da nova teoria idiossincrática <sup>[13]</sup>). Ao tentar identificar as informações relevantes, podemos realizar previsões preliminares sem necessidade de simulações complexas.
