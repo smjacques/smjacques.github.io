@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Sobre
 permalink: /about/
 weight: 5
 ---
