@@ -13,8 +13,8 @@ weight: 1
     <br>
 
 <br>
-<em>"Biólogo que mexe com eletrônica" e doutor em ecologia e evolução pela UERJ com estudos avaliando os impactos das mudanças climáticas sobre ambientes naturais. Desde 2008 participo de pesquisas com ecossistemas aquáticos, monitoramentos ambientais e estudos experimentais utilizando microcosmos naturais.</em>
+"Biólogo que mexe com eletrônica" e doutor em ecologia e evolução pela UERJ com estudos avaliando os impactos das mudanças climáticas sobre ambientes naturais. Desde 2008 participo de pesquisas com ecossistemas aquáticos, monitoramentos ambientais e estudos experimentais utilizando microcosmos naturais.
 
-<em>Atualmente minhas atividades envolvem ecologia aplicada, utilizando tecnologias livres e abertas para geração de dados ambientais e maior protagonismo cidadão, análise de dados utilizando R e Python  trabalhos colaborativos usando integração entre linguagem R e Git.</em>
+Atualmente minhas atividades envolvem ecologia aplicada, utilizando tecnologias livres e abertas para geração de dados ambientais e maior protagonismo cidadão, análise de dados utilizando R e Python  trabalhos colaborativos usando integração entre linguagem R e Git.
 
-<em>A atuação no ensino envolvem cursos e workshops de análises de dados ambientais, introdução à linguagens R e Python e aplicação de tecnologias livres e abertas para automação e monitoramento ambiental. Todos os materiais produzidos estão disponíveis na página "cursos e workshops".</em>
+A atuação no ensino envolvem cursos e workshops de análises de dados ambientais, introdução à linguagens R e Python e aplicação de tecnologias livres e abertas para automação e monitoramento ambiental. Todos os materiais produzidos estão disponíveis na página "cursos e workshops".
