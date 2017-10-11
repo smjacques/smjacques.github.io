@@ -22,7 +22,7 @@ Ministro cursos e workshops sobre análises de dados ambientais, introdução à
 Áreas de interesse:
 
  <ul style="list-style-type:circle">
-  <li>Ecologia de Ecossistema e Ecologia Aplicada</li>
+  <li>Ecologia de ecossistema e ecologia aplicada</li>
   <li>Tecnologias livres e abertas para geração de dados ambientais</li>
   <li>Ciência Cidadã e Emancipação Tecnológica</li>
   <li>Análise de dados utilizando R e Python</li>
