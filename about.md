@@ -4,7 +4,7 @@ title: Sobre
 weight: 1
 ---
 
-<h3> Ecologia | Open Data | Tecnologias livres </h3>
+<h3> Ecologia de Ecossistemas| Ciência Aberta </h3>
 
 <a href="https://github.com/smjacques">
     <img border="0" align="right" alt="GitHub" src="https://raw.githubusercontent.com/smjacques/smjacques.github.io/master/icons/github.png" width="50" height="50">
