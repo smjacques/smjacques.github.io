@@ -19,10 +19,10 @@ weight: 1
 
 Ministro cursos e workshops sobre análises de dados ambientais, introdução à linguagens R e Python e aplicação de tecnologias livres e abertas para automação e monitoramento ambiental. Todos os materiais produzidos estão linkados na página.
 
-Atualmente minhas atividades dão ênfase às seguintes áreas:
+Áreas de interesse:
 
  <ul style="list-style-type:circle">
-  <li>Ecologia Aplicada</li>
+  <li>Ecologia de Ecossistema e Ecologia Aplicada</li>
   <li>Tecnologias livres e abertas para geração de dados ambientais</li>
   <li>Ciência Cidadã e Emancipação Tecnológica</li>
   <li>Análise de dados utilizando R e Python</li>
