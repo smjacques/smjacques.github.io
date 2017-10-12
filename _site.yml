@@ -9,28 +9,28 @@ navbar:
     - text: "Publicações"
       icon: fa-university
       href: pubs.html
+    - text: "Projetos"
+      icon: fa-flask
+      href: proj.html
     - text: "Cultura Livre"
       icon: fa-linux
       href: open.html
-    - text: "Sobre"
-      icon: fa-info
-      href: about.html
-    - text: "Blog"
-      icon: fa-lightbulb-o
-      href: blog.html
     - text: "More"
       icon: fa-gear
       menu:
+        - text: "Sobre"
+          icon: fa-info
+          href: about.html
+        - text: "Blog"
+          icon: fa-lightbulb-o
+          href: blog.html
         - text: "Links"
+          icon: fa-link
           href: links.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/smjacques
     - icon: fa-envelope fa-lg
-      mailto: saulojacques@protonmail.com
+      href: mailto saulojacques@protonmail.com
       
-  output:
-  html_document:
-    include:
-      after_body: footer.html
-    css: styles.css
+output_dir: "."
