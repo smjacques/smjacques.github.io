@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Publicações
-weight: 3
+  title: "scientific publication"
 ---
-
+  
 <h3 style="color:blue;">Capítulo de Livro</h3>
 <p align="left"><strong>2017</strong> – Potential changes in bacterial metabolism associated with increased water temperature and nutrient inputs in tropical humic lagoons, Scofield, Vinicius, Jacques, Saulo M. S., Guimarães, Jean R. D., Farjalla, Vinicius F. in <a href="http://journal.frontiersin.org/researchtopic/735/microbial-role-in-the-carbon-cycle-in-tropical-inland-aquatic-ecosystems" style="color:#616161;">Microbial Role in the Carbon Cycle in Tropical Inland Aquatic Ecosystems</a>. <span id="ctl00_ctl00_MainContentPlaceHolder_ContentAreaMainContent_ucBookDetail_lblProductDesc">Frontiers Research Topic Ebook, p. 28-37.</span>
 <br>

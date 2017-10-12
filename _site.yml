@@ -1,0 +1,36 @@
+name: "my-website"
+navbar:
+  title: "Saulo Jacques"
+  type: inverse
+  left:
+    - text: "Início"
+      icon: fa-home
+      href: index.html
+    - text: "Publicações"
+      icon: fa-university
+      href: pubs.html
+    - text: "Cultura Livre"
+      icon: fa-linux
+      href: open.html
+    - text: "Sobre"
+      icon: fa-info
+      href: about.html
+    - text: "Blog"
+      icon: fa-lightbulb-o
+      href: blog.html
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Links"
+          href: links.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/smjacques
+    - icon: fa-envelope fa-lg
+      mailto: saulojacques@protonmail.com
+      
+  output:
+  html_document:
+    include:
+      after_body: footer.html
+    css: styles.css

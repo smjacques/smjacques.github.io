@@ -1,6 +1,7 @@
 ---
-layout: default
+  title: "Posts do Blog"
 ---
+
 <div class="post">
 
   <header class="post-header">

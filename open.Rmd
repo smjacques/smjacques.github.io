@@ -1,0 +1,6 @@
+---
+  title: "Cultura Livre e Aberta"
+---
+<br>
+<hr>
+A base da ideia de "Ciência Aberta" e "Ciência Cidadã" está na cultura de softwares e hardwares livres e abertos. 
