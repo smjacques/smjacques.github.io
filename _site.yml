@@ -10,27 +10,33 @@ navbar:
       icon: fa-university
       href: pubs.html
     - text: "Projetos"
-      icon: fa-flask
+      icon: fa-pencil-square-o
       href: proj.html
-    - text: "Cultura Livre"
-      icon: fa-linux
+    - text: "Ciência Aberta"
+      icon: fa-flask
       href: open.html
     - text: "More"
       icon: fa-gear
       menu:
-        - text: "Sobre"
-          icon: fa-info
-          href: about.html
-        - text: "Blog"
-          icon: fa-lightbulb-o
-          href: blog.html
+       # - text: "Blog"
+        #  icon: fa-lightbulb-o
+        #  href: blog.html
         - text: "Links"
           icon: fa-link
           href: links.html
+        - text: "Sobre"
+          icon: fa-info
+          href: about.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/smjacques
-    - icon: fa-envelope fa-lg
-      href: mailto saulojacques@protonmail.com
-      
+    
 output_dir: "."
+## flatly cerulean spacelab sandstone default
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+ # include:
+ # after_body: footer.html
+ # css: styles.css

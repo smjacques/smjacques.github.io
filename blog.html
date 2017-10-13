@@ -258,17 +258,13 @@ $(document).ready(function () {
 </div>
 
 
-<hr>
-<p><br></p>
-<div class="post">
-<header class="post-header">
-<pre><code>&lt;h3 class=&quot;post-title&quot;&gt;{{ page.title }}&lt;/h3&gt;
-&lt;p class=&quot;post-meta&quot;&gt;{{ page.date | date: &quot;%b %-d, %Y&quot; }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}&lt;/p&gt;</code></pre>
-</header>
-<article class="post-content">
-<pre><code>{{ content }}</code></pre>
-</article>
-</div>
+<ul>
+{% for post in site.posts %}
+<li>
+<a href="{{ posts.url }}">{{ posts.title }}</a>
+</li>
+{% endfor %}
+</ul>
 <hr>
 <center>
 <rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" class="centerImage" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png">
