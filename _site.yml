@@ -15,7 +15,7 @@ navbar:
     - text: "Ciência Aberta"
       icon: fa-flask
       href: open.html
-    - text: "More"
+    - text: "E mais!"
       icon: fa-gear
       menu:
        # - text: "Blog"
