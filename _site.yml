@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "Saulo Jacques"
+  title: ""
   type: inverse
   left:
     - text: "Início"
