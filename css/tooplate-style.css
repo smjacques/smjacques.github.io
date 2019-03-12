@@ -1311,18 +1311,28 @@ article img {
   -moz-transition: all 1000ms ease-out 600ms;
   transition: all 1000ms ease-out 600ms;
 }
-.info h3 {
-  color: #fcfff4;
+.text-block {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.7); /* Black background with 0.5 opacity */
+  color: #fcfcfc; /* white text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+
+.text-block h3 {
+  color: #fcfcfc;
   margin: 0 0 5px;
   font-weight: normal;
   font-size: 1.5em;
   font-style: normal;
 }
-.info p {
-  color: #fcfff4;
+.text-block p {
+  color: #fcfcfc;
   margin: 0 0 5px;
   font-weight: normal;
-  font-size: 1.0em;
+  font-size: 0.9em;
   font-style: normal;
 }
 .info.top-left {
